@@ -35,7 +35,7 @@ $$/   $$/  $$$$$$$/ $$/ $$/  $$$$$$/   $$$$$$$/  $$$$$$/  $$/
                                                                      """)
 
 # Inputs
-print('> MADE BY CHMVREK <')
+print('> MADE BY OSKAR WASILUK <')
 
 print('')
 
